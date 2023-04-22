@@ -21,25 +21,21 @@ Store all notes and important information digitally. Type, write, delete and dra
 
 :heavy_check_mark: Front-end creation;:
 
-:heavy_check_mark: Creating a system of record (EF SQL Server);
+:heavy_check_mark: Python web framework: Flask
 
 :heavy_check_mark: Creating CRUD for contacts/profiles;
 
-:heavy_check_mark: Creation Paging/Search;
-
-:heavy_check_mark: Creation of tabs for new registrations and sessions;
+:heavy_check_mark: Create, Read and Delete operations: Basic database operations used in web applications;
 
 :heavy_check_mark: Creation of the login screen;
 
-:heavy_check_mark: Added encryption (HASH1) for passwords;
+:heavy_check_mark: Authentication and authorization: Techniques used to control access to resources in web applications;
 
-:heavy_check_mark: Creation of a view for the password recovery system;
+:heavy_check_mark: Creation of the login screen;
 
-:heavy_check_mark: Creation of the system to recover password (Sending SMTP E-mail);
+:heavy_check_mark: Session management: Techniques used to manage user sessions in web applications;
 
-:heavy_check_mark: Relationship between tabs/tables;
-
-:heavy_check_mark: Creating a MODAL (with ajax jquery);
+:heavy_check_mark: Testing and debugging: Techniques used to ensure the quality and reliability of web applications.
 
 
 
